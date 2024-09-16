@@ -76,6 +76,35 @@ abbr[epub|type~="z3998:stage-direction"]::after{
 }
 /* End stage direction abbr */
 
+/* Together dialogue */
+tr.together{
+	break-inside: avoid;
+}
+
+tr.together td{
+	padding: 0 .5em 0 0;
+	vertical-align: middle;
+}
+
+tr.together td:only-child,
+tr.together td + td{
+	border-left: 1px solid;
+}
+
+.together + .together td[rowspan],
+.together + .together td[rowspan] + td{
+	padding-top: .5em;
+}
+
+[epub|type~="z3998:drama"] .together td:last-child{
+	padding-left: .5em;
+}
+
+tr.together td:nth-child(2) {
+    width: 1em;
+}
+/* End together dialogue */
+
 /* Dramatis Personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
