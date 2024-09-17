@@ -72,7 +72,7 @@ abbr[epub|type~="z3998:stage-direction"]{
 
 abbr[epub|type~="z3998:stage-direction"]::before,
 abbr[epub|type~="z3998:stage-direction"]::after{
-	content: '';
+	content: "";
 }
 /* End stage direction abbr */
 
@@ -100,8 +100,8 @@ tr.together td + td{
 	padding-left: .5em;
 }
 
-tr.together td:nth-child(2) {
-    width: 1em;
+tr.together td:nth-child(2){
+	width: 1em;
 }
 /* End together dialogue */
 
