@@ -46,11 +46,12 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2009119103</meta>
+		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A family newly returned to England navigates a comedy of errors when they accidentally meet their estranged husband and unknown father.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
+			The Clandons – twins Dolly and Phil, older sister Gloria, and their mother – return from Madeira to England and make the acquaintance of Valentine, a penniless dentist who immediately falls in love with Gloria. When they invite him to lunch, they discover that his landlord is the rich husband who Mrs. Clandon fled from years ago. What follows is a comedy of errors and a satire of Victorian morality and modern values. Smoothing over these issues is an old waiter, who dispenses wisdom such as "you never can tell."
+			&lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt; has been described as the second most important English language playwright after &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; and won the Nobel Prize in Literature in 1925. &lt;i&gt;You Never Can Tell&lt;/i&gt; was written in 1897 and premiered in 1899 at the Royalty Theatre in London, after his first commercial success but early in his career, and was published in the collected &lt;i&gt;Plays Pleasant&lt;/i&gt;/</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2175/</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.95220/</dc:source>
