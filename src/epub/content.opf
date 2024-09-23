@@ -55,7 +55,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2175/</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.95220/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Dramatis personae order taken from 1920 edition page scans, with Jo and the cook added.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/You_Never_Can_Tell_(play)</meta>
