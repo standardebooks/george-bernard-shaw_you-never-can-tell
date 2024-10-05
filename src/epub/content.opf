@@ -34,7 +34,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">You Can Never Tell: A Comedy in Four Acts</dc:title>
 		<meta property="file-as" refines="#fulltitle">You Can Never Tell</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>		
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Comedies</dc:subject>
 		<dc:subject id="subject-2">England -- Drama</dc:subject>
 		<dc:subject id="subject-3">Runaway husbands -- Drama</dc:subject>
