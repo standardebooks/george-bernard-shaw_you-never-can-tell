@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="act-1.xhtml">
+		<ignore>
+			<code>t-052</code>
+			<reason>Inline stage directions have been manually reviewed.</reason>
+		</ignore>
+	</file>
+	<file path="act-2.xhtml">
+		<ignore>
+			<code>t-052</code>
+			<reason>Inline stage directions have been manually reviewed.</reason>
+		</ignore>
+	</file>
+	<file path="act-3.xhtml">
+		<ignore>
+			<code>t-052</code>
+			<reason>Inline stage directions have been manually reviewed.</reason>
+		</ignore>
+	</file>
+	<file path="act-4.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Grapheme is not abbreviation.</reason>
+		</ignore>
+		<ignore>
+			<code>t-052</code>
+			<reason>Inline stage directions have been manually reviewed.</reason>
+		</ignore>
+	</file>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>y-007</code>
+			<reason>Painting title has single quote in title according to official sources.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
