@@ -40,6 +40,7 @@
 	font-style: italic;
 }
 
+[epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
@@ -92,10 +93,6 @@ tr.together td + td{
 
 [epub|type~="z3998:drama"] .together td:last-child{
 	padding-left: .5em;
-}
-
-tr.together td:nth-child(2){
-	width: 1em;
 }
 /* End together dialogue */
 
